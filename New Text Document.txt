@@ -1,0 +1,9 @@
+african asian caucas hisp categ
+1	0	0	0   afri
+0	1	0	0  asian
+
+
+
+
+Classifier Test_label	Classifier Label 70% 15% 15%
+RF		0		1	
